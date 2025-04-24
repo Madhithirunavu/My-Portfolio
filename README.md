@@ -1,4 +1,4 @@
-Hi, I’m a Product Manager and Business Analyst with over 6 years of experience working across the automotive, finance, insurance and healthcare sectors. I focus on turning business problems into practical solutions by using data, strong product thinking, and close collaboration with teams. I’m currently pursuing a Master’s in Data Science to further build on my analytical skills.
+Hi, I’m a Product Manager and Business Analyst with over 6 years of experience working across the automotive, finance, insurance and healthcare sectors. I focus on turning business problems into practical solutions by using data, strong product thinking, and close collaboration with teams. I’m currently pursuing a Master’s in Data Science and Analytics to further build on my technical skills.
 
 I’ve led projects that involved supply chain optimization, loan eligibility automation, and compliance tracking. I enjoy working with SQL, Python, Power BI, and building tools that help teams work smarter.
 
